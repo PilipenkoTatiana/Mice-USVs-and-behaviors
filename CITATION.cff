@@ -1,0 +1,48 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Mice USVs and behaviors
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Tatiana
+    family-names: Pilipenko
+    email: t.pilipenko@unibs.it
+    name-particle: Tatiana
+    affiliation: University of Brescia
+    orcid: 'https://orcid.org/0000-0003-1991-4980'
+  - given-names: Marika
+    family-names: Premoli
+    email: m.premoli002@unibs.it
+    affiliation: University of Brescia
+    orcid: 'https://orcid.org/0000-0002-2948-7524'
+  - given-names: Alessandro
+    family-names: Gnutti
+    email: alessandro.gnutti@unibs.it
+    affiliation: University of Brescia
+    orcid: 'https://orcid.org/0000-0002-8308-0776'
+  - given-names: Sara Anna
+    family-names: Bonini
+    email: sara.bonini@unibs.it
+    affiliation: University of Brescia
+    orcid: 'https://orcid.org/0000-0001-6571-5910'
+  - given-names: Riccardo
+    family-names: Leonardi
+    email: riccardo.leonardi@unibs.it
+    affiliation: University of Brescia
+    orcid: 'https://orcid.org/0000-0003-0755-1924'
+  - given-names: Maurizio
+    family-names: Memo
+    orcid: 'https://orcid.org/0000-0002-7543-0289'
+    email: maurizio.memo@unibs.it
+    affiliation: University of Brescia
+  - given-names: Pierangelo
+    family-names: Migliorati
+    email: pierangelo.migliorati@unibs.it
+    orcid: 'https://orcid.org/0000-0002-1197-018X'
+    affiliation: University of Brescia
+repository-code: >-
+  https://github.com/PilipenkoTatiana/Mice-USVs-and-behaviors
